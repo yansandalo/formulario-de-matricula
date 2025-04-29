@@ -22,6 +22,7 @@
 .checkbox-image {
   flex: 0 0 1.5rem;
   height: 1.35rem;
+ 
   
   background-image: url(../../assets/icons/checkbox-default.svg);
 }
